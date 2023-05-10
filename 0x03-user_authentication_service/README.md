@@ -220,4 +220,4 @@ This project contains tasks for learning to create a user authentication service
         update_password(EMAIL, reset_token, NEW_PASSWD)
         log_in(EMAIL, NEW_PASSWD)
     ```
-  + Run `python3 main.py`. If everything is correct, you should see no output.
+  + Run `python3 main.py`. If everything is correct, you should see no output..
